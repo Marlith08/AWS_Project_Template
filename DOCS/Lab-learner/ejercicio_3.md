@@ -171,28 +171,28 @@
 
 ### 6\.-No tenemos permitido crear una maquina de estado
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/aeafa511-71cd-429b-aeaf-406a952ddd43" width="700" height="100">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/aeafa511-71cd-429b-aeaf-406a952ddd43" width="500" height="100">
 </p>
 
 
 ### 7\.-Revisamos el servicio Lambda
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/aad1c77f-e495-4ce5-b01c-98c11eb56f00" width="700" height="400">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/aad1c77f-e495-4ce5-b01c-98c11eb56f00" width="700" height="300">
 </p>
 
 
 ### 8\.- Clik en “crear una función”
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/992b3434-6f95-4ba8-8ac5-1508325363e4" width="700" height="400">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/992b3434-6f95-4ba8-8ac5-1508325363e4" width="500" height="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/7385531f-a6c6-4fdf-bf26-f78e1c21eced" width="700" height="400">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/7385531f-a6c6-4fdf-bf26-f78e1c21eced" width="700" height="200">
 </p>
 
 
 ### 9\.- No tenemos el permiso de crear una función
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/59e74c36-ac1a-4223-9168-ef7e9f9603ad" width="700" height="100">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/59e74c36-ac1a-4223-9168-ef7e9f9603ad" width="500" height="100">
 </p>
 
