@@ -7,7 +7,7 @@ Añade estados de espera y elección a la máquina de estado. Utiliza condicione
 1,. Nos dirigimos al servicio de Step Function
 
 
-![](Aspose.Words.a6f876ff-b55e-4bc6-a7e7-094989c45c44.001.png)
+![](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Lab-learner/Aspose.Words.a6f876ff-b55e-4bc6-a7e7-094989c45c44.001.png)
 
 2\.- Clik en empezar
 
