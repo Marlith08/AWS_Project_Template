@@ -1,9 +1,16 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
 # <p align="center">AMAZON SNS </p>
 
 
 ## ¿Qué es Amazon SNS?
  <p align="justify">Amazon SNS (Simple Notification Service) es un servicio administrado por AWS que facilita la entrega de mensajes o notificaciones desde los publicadores (fuentes de información) a los suscriptores (destinatarios interesados en recibir dicha información). Es especialmente útil para aplicaciones y sistemas que necesitan enviar actualizaciones en tiempo real a usuarios finales, sistemas internos o servicios externos de manera confiable y escalable.</p>
-
+ 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/6f0d43eb-4ff9-445c-b06a-04f161cb903c" width=467" height="284">
+</p>
 
 ### Componentes Principales:
   * **Publicadores (Publishers):**
