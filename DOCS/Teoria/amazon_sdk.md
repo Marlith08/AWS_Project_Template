@@ -1,9 +1,16 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
 # <p align="center">AMAZON SDK </p>
 
 ## ¿Qué es AWS SDK?
 <p align="justify"></p>
 El AWS SDK (Software Development Kit) es una biblioteca de herramientas y APIs proporcionada por Amazon Web Services (AWS) que facilita la integración y el uso de más de 200 servicios de AWS desde aplicaciones y entornos de desarrollo. Asimismo, está disponible en varios lenguajes de programación como Python, Java, JavaScript/Node.js, Ruby, PHP, entre otros. El SDK proporciona métodos y funciones para realizar llamadas API a servicios específicos de AWS, gestionar recursos, y automatizar tareas en la nube.
 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/43cf6afb-1b5a-426d-962d-d04da244b0ad" width=567" height="284">
+</p>
 ## Componentes y Funcionalidades:
 
   - ### Integraciones con Servicios de AWS:
@@ -13,9 +20,10 @@ El AWS SDK (Software Development Kit) es una biblioteca de herramientas y APIs p
     *  Proporciona métodos para realizar operaciones avanzadas como configuración de instancias EC2, gestión de objetos en buckets de S3, creación de tablas en DynamoDB, entre otros.
     *  Permite manejar la autenticación, autorización y manejo de errores de manera robusta y controlada.
   -   ### Integraciones Optimizadas para Step Functions:
-    *  AWS Step Functions es un servicio que permite coordinar componentes de aplicaciones distribuidas y microservicios mediante flujos de trabajo visuales.
-    *  Las integraciones optimizadas para Step Functions están diseñadas específicamente para simplificar el uso de más de 9,000 acciones de API de AWS dentro de máquinas de estado definidas en Step Functions.
-    *  Esto facilita la creación y gestión de flujos de trabajo complejos de manera eficiente y escalable, utilizando las capacidades de los servicios de AWS de forma integrada.
+    
+  -  AWS Step Functions es un servicio que permite coordinar componentes de aplicaciones distribuidas y microservicios mediante flujos de trabajo visuales.
+  -  Las integraciones optimizadas para Step Functions están diseñadas específicamente para simplificar el uso de más de 9,000 acciones de API de AWS dentro de máquinas de estado definidas en Step Functions.
+  -  Esto facilita la creación y gestión de flujos de trabajo complejos de manera eficiente y escalable, utilizando las capacidades de los servicios de AWS de forma integrada.
   - ### Lenguajes de Programación Soportados:
     *  El SDK está disponible en múltiples lenguajes de programación, lo que permite a los desarrolladores elegir el entorno más adecuado para sus necesidades y habilidades.
 
