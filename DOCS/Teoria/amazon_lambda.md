@@ -1,7 +1,16 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
+
 #  <p align="center">Amazon Lambda</p>
 
 ## ¿Qué es AWS Lambda?
  <p align="justify">AWS Lambda es un servicio de computación sin servidor proporcionado por Amazon Web Services (AWS). Permite ejecutar código de forma automática y escalable en la nube sin la necesidad de aprovisionar ni gestionar servidores. Es ideal para aplicaciones y servicios que requieren una respuesta rápida a eventos y una escalabilidad automática.</p>
+
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/e51f9fa0-5b42-42f1-8e7f-988c47923485" width=467" height="184">
+</p>
 
 ## Características Principales
 
