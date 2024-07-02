@@ -1,3 +1,10 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
+ 
+ 
+ 
  # <p align="center">MAQUINA DE ESTADO</p>
 
 ## ¿Que es una máquina de estado?
@@ -121,6 +128,9 @@ Puede tomar una decisión entre las ramificaciones de una ejecución y cuando en
             }
           }
 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/c0ae13ca-6e20-49f0-95b1-92b50f2966b0" width="700" height="400">
+</p>
 
 
   - ### **Fail** o **Succeed:**:
@@ -146,6 +156,10 @@ Puede detener una ejecución con errores o con éxito.
       "ErrorPath": "$.Error" 
       } 
 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/cd5364b0-57b5-43db-8814-9ea10544697d" width="700" height="400">
+</p>
+
   - ### **Pass:**
 Puede transferir su entrada a su salida o insertar ciertos datos fijos en el flujo de trabajo, es decir pasa los datos de la entrada  ala salida sin realizar ninguna tarea.
 
@@ -165,6 +179,10 @@ Puede transferir su entrada a su salida o insertar ciertos datos fijos en el flu
          "ResultPath": "$.coords",
          "End": true 
         }
+
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/031b8c32-9f90-47ae-9184-aec60dc7c1e1" width="700" height="400">
+</p>
 
 
   - ### **Wait:**
@@ -191,6 +209,10 @@ Puede proporcionar un retraso que dure con tiempo o hasta una fecha u hora deter
       "Timestamp": "2024-03-14T01:59:00Z", 
       "Next": "NextState" 
       }
+
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/3fce69cc-a14e-4917-9da8-fadabd39f073" width="700" height="400">
+</p>
 
   - ### **Parallel:**
 Puede iniciar notificaciones en ejecuciones paralelas
@@ -237,6 +259,10 @@ Puede iniciar notificaciones en ejecuciones paralelas
       }
 
 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/37bb12be-3c3b-4b3c-9627-bb579c1f21d7" width="700" height="400">
+</p>
+
 
   - ### **Map:**
 Puede iterar pasos de forma dinámica
@@ -254,6 +280,9 @@ Puede iterar pasos de forma dinámica
     *  Orquestar cargas de trabajo paralelo
     *  Se puede especificar la cantidad de elementos con errores a tolerar
 
+<p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/271966fb-1184-41be-9f94-50a31b621ffe" width="700" height="400">
+</p>
 
 
 ### Reglas para aplicar los estados en una maquina de estado:
