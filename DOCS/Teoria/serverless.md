@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
 # <p align="center">SERVELESS</p>
 
  <p align="justify">La arquitectura serverless es un modelo de desarrollo y despliegue de aplicaciones que permite crear y ejecutar aplicaciones sin necesidad de gestionar la infraestructura subyacente. Por lo cual:
@@ -5,6 +9,10 @@
 
 ## ¿Qué es Serverless?
  <p align="justify">Serverless, o sin servidor, se refiere a la capacidad de construir y ejecutar aplicaciones sin la necesidad de preocuparse por los servidores físicos o virtuales subyacentes. Aunque el nombre sugiere que no hay servidores involucrados, en realidad, existen servidores que ejecutan el código; sin embargo, como desarrolladores, no tenemos que preocuparnos por ellos.</p>
+
+ <p align="center">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/310c5344-37f6-4d86-930f-66be06968d34" width=467" height="284">
+</p>
 
 ## Características Principales:
 
