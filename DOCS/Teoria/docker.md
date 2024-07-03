@@ -46,4 +46,8 @@ Docker es una plataforma de código abierto diseñada para desarrollar, enviar y
   <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/ee31c110-666b-4ea2-a255-c399a4eeb293" width=467" height="284">
 </p>
 
+## Referencias:
 
+[Torres, O. (2015, diciembre 14). Arquitectura basada en microservicios Parte 3. Un poco de Java. ](https://unpocodejava.com/2015/12/14/arquitectura-basada-en-microservicios-parte-3/)
+
+[¿Qué es Docker y cómo funciona? (s/f). Redhat.com. ](https://www.redhat.com/es/topics/containers/what-is-docker)
