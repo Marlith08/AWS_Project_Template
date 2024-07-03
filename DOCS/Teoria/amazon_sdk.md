@@ -11,6 +11,8 @@ El AWS SDK (Software Development Kit) es una biblioteca de herramientas y APIs p
 <p align="center">
   <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/43cf6afb-1b5a-426d-962d-d04da244b0ad" width=567" height="284">
 </p>
+
+
 ## Componentes y Funcionalidades:
 
   - ### Integraciones con Servicios de AWS:
@@ -34,3 +36,6 @@ El AWS SDK (Software Development Kit) es una biblioteca de herramientas y APIs p
   *  Simplificación del Desarrollo: Reduce el tiempo de desarrollo al proporcionar APIs y abstracciones listas para usar.
   *  Escalabilidad y Eficiencia: Permite escalar aplicaciones de manera automática y optimizada según la demanda.
   *  Integración Completa con Servicios AWS: Facilita la integración con otros servicios de AWS, mejorando la coherencia y la interoperabilidad de las aplicaciones.
+
+## Referencias:
+[Amazon](https://docs.aws.amazon.com/es_es/sdk-for-javascript/v2/developer-guide/welcome.html)
