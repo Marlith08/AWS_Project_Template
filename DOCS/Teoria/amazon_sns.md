@@ -46,3 +46,6 @@
 
 <p align="justify">Amazon SNS proporciona controles de seguridad robustos, incluyendo la capacidad de gestionar políticas de acceso y autenticación a través de AWS IAM. Además, ofrece funcionalidades avanzadas como el encriptado de mensajes en reposo y en tránsito para asegurar la confidencialidad de los datos.</p>
 
+
+## Referencias:
+[Amazon](https://docs.aws.amazon.com/es_es/sns/latest/dg/welcome.html)
