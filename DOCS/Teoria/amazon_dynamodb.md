@@ -67,3 +67,13 @@ Modelo de Datos y Consistencia: Soporta modelos de datos flexibles y esquemas di
   <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/9caa1fd3-71ee-4e45-b29a-a9e396c36536" width=650" height="384">
 </p>
 
+##  Referencia:
+
+[Amazon.com](https://aws.amazon.com/es/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/)
+
+[Sopin, S. (2021, marzo 23). Potential pitfalls with DynamoDB. SERGII SOPIN.]( https://sopin.dev/2021/03/22/Should-Amazon-DynamoDB-be-your-default-database-choice-when-architecting-on-AWS/)
+
+[Amazon.com](https://docs.aws.amazon.com/es_es/amazondynamodb/latest/developerguide/Introduction.html)
+
+[Amazon.com](https://docs.aws.amazon.com/es_es/amazondynamodb/latest/developerguide/dynamodb-dg.pdf#Introduction)
+
