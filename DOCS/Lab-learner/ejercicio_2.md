@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+
 # <p align = "center"> ﻿EJERCICIO N° 2 </p>
 
 #### **Desarrolla una máquina de estado que incluya estados de tarea y pasarela. Implementa estos estados utilizando Python y AWS SDK.**
@@ -30,136 +34,75 @@
 
 ### 4\.- Creamos nuestra máquina de estado
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/152a63f4-3af7-409b-ac41-49efd2d86a0c" width="700" height="400">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/9e24618c-82eb-4ad6-9bc3-5b0684b7b0c7" width="700" height="400">
 </p>
 
 
 ### 5\.- Clik en crear
 <p align="center">
-  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/136536376/ad7cc426-7650-4f24-abed-a9cddc22c5bc" width="700" height="400">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/c916d586-2c11-4aee-824f-bbf787a0df95" width="700" height="400">
 </p>
 
 ## Código de la máquina de estado
 
 
-          {
-          
-          `  `"Comment": "A description of my state machine",
-          
-          `  `"StartAt": "Wait",
-          
-          `  `"States": {
-          
-          `    `"Wait": {
-          
-          `      `"Type": "Wait",
-          
-          `      `"Seconds": 5,
-          
-          `      `"Next": "Choice"
-          
-          `    `},
-          
-          `    `"Choice": {
-          
-          `      `"Type": "Choice",
-          
-          `      `"Choices": [
-          
-          `        `{
-          
-          `          `"Variable": "$.condition",
-          
-          `          `"BooleanEquals": true,
-          
-          `          `"Next": "Pass"
-          
-          `        `}
-          
-          `      `],
-          
-          `      `"Default": "Parallel"
-          
-          `    `},
-          
-          `    `"Pass": {
-          
-          `      `"Type": "Pass",
-          
-          `      `"End": true
-          
-          `    `},
-          
-          `    `"Parallel": {
-          
-          `      `"Type": "Parallel",
-          
-          `      `"Branches": [
-          
-          `        `{
-          
-          `          `"StartAt": "Cargar datos",
-          
-          `          `"States": {
-          
-          `            `"Cargar datos": {
-          
-          `              `"Type": "Pass",
-          
-          `              `"End": true
-          
-          `            `}
-          
-          `          `}
-          
-          `        `},
-          
-          `        `{
-          
-          `          `"StartAt": "Limpiar datos",
-          
-          `          `"States": {
-          
-          `            `"Limpiar datos": {
-          
-          `              `"Type": "Pass",
-          
-          `              `"End": true
-          
-          `            `}
-          
-          `          `}
-          
-          `        `},
-          
-          `        `{
-          
-          `          `"StartAt": "Analizar datos",
-          
-          `          `"States": {
-          
-          `            `"Analizar datos": {
-          
-          `              `"Type": "Pass",
-          
-          `              `"End": true
-          
-          `            `}
-          
-          `          `}
-          
-          `        `}
-          
-          `      `],
-          
-          `      `"End": true
-          
-          `    `}
-          
-          `  `}
-          
+      {
+        "Comment": "A description of my state machine",
+        "StartAt": "Wait",
+        "States": {
+          "Wait": {
+            "Type": "Wait",
+            "Seconds": 5,
+            "Next": "Choice"
+          },
+          "Choice": {
+            "Type": "Choice",
+            "Choices": [
+              {
+                "Next": "Pass"
+              }
+            ],
+            "Default": "Parallel"
+          },
+          "Pass": {
+            "Type": "Pass",
+            "End": true
+          },
+          "Parallel": {
+            "Type": "Parallel",
+            "End": true,
+            "Branches": [
+              {
+                "StartAt": "Pass (1)",
+                "States": {
+                  "Pass (1)": {
+                    "Type": "Pass",
+                    "End": true
+                  }
+                }
+              },
+              {
+                "StartAt": "Pass (2)",
+                "States": {
+                  "Pass (2)": {
+                    "Type": "Pass",
+                    "End": true
+                  }
+                }
+              },
+              {
+                "StartAt": "Pass (3)",
+                "States": {
+                  "Pass (3)": {
+                    "Type": "Pass",
+                    "End": true
+                  }
+                }
+              }
+            ]
           }
-
+        }
+      }
 
 ## 6\.-Clik en confirmar
 <p align="center">
