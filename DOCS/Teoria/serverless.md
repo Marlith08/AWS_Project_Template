@@ -35,3 +35,8 @@
   *  Modelo de Ejecución: Limitaciones en el tiempo de ejecución y en los recursos disponibles pueden requerir un diseño cuidadoso de la arquitectura.
   *  Gestión de Dependencias: Dependiendo de la plataforma, puede haber desafíos en la gestión de dependencias y configuración del entorno de ejecución.
   * Monitoreo y Depuración: Herramientas de monitoreo y depuración específicas pueden ser necesarias para comprender el rendimiento y el comportamiento de las aplicaciones serverless.
+
+## Referencias:
+[ Fiverr.com. ](https://es.fiverr.com/iosguybd/do-serverless-infrastructure-setup)
+
+[Líderes en formación tecnológica, reskilling y upskilling. (s/f). Openwebinars.net.](https://openwebinars.net/blog/que-es-serverless-ventajas-y-servicios/)
