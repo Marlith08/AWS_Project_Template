@@ -1,4 +1,9 @@
-﻿# <p align="center"> EJERCICIO N° 3 </p>
+<p align="right">
+  <img src="https://github.com/Marlith08/AWS_Project_Template/assets/150297300/387f6cab-83d1-4de9-ba74-52d8b0841334" width=167" height="84">
+</p>
+ 
+ 
+ # <p align="center"> EJERCICIO N° 3 </p>
 
 #### Diseña un flujo de trabajo que procese datos en múltiples etapas utilizando Step Functions y Lambda functions.
 
