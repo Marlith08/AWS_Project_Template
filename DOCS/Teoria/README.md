@@ -33,3 +33,8 @@ En este documento se presenta la teoría fundamental necesaria para desarrollar 
 
   - [Serveles](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Teoria/serverless.md)
 
+
+
+
+## Referencia Step Function:
+[Amazon](https://docs.aws.amazon.com/es_es/step-functions/latest/dg/step-functions-dg.pdf#welcome)
