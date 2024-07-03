@@ -14,7 +14,7 @@
 
 | Carpeta  | Descripción  |
 | :------------: | :------------: |
-| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/DOCS/Lab-learner">Lab-learner</a>  | <p align="justify">.</p>  |
-| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/DOCS/Teoria">Teoria</a>  | <p align="justify"></p>  |
+| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/DOCS/Lab-learner">Lab-learner</a>  | <p align="justify">Cuenta con los archivos desarrollados en el lab learner de aws</p>  |
+| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/DOCS/Teoria">Teoria</a>  | <p align="justify"> Cuenta con los acrivos requeridos para comprender y realizar este proyecto.</p>  |
 
 
