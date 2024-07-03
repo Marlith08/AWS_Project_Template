@@ -10,16 +10,15 @@ class DevOpsStateMachine:
             self.state = 'Build' #se pasa al siguiente estado
         
         elif self.state == 'Build': # Simulación de la compilación del estado
-            print(f"Estado: Compilando {self.data['app_name']} (v{self.data['version']})...")   # Aquí podrías llamar a funciones o métodos para compilar la aplicación
+            print(f"Estado: Compilando {self.data['app_name']} (v{self.data['version']})...")   
             self.state = 'Test'
         
         elif self.state == 'Test': # Simulación de las pruebas automáticas
-            print(f"Estado: Ejecutando pruebas automáticas para {self.data['app_name']} (v{self.data['version']})...")  # Aquí podrías llamar a funciones o métodos para ejecutar pruebas
+            print(f"Estado: Ejecutando pruebas automáticas para {self.data['app_name']} (v{self.data['version']})...")  
             self.state = 'Deploy'
         
         elif self.state == 'Deploy': # Simulación del despliegue
-            print(f"Estado: Desplegando {self.data['app_name']} (v{self.data['version']}) en producción...")     # Aquí podrías llamar a funciones o métodos para desplegar la aplicación
-            print("¡Despliegue exitoso!")
+            print(f"Estado: Desplegando {self.data['app_name']} (v{self.data['version']}) en producción...")    
             self.state = 'End' #se pasa el estado a end
         
         elif self.state == 'End':
