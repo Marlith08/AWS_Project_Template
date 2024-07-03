@@ -14,14 +14,14 @@ En este archivo se encontrarán los ejercicios realizados utilizando Lab Learner
 
 ## Contenido
 
-  - [Ejercicio_1](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Teoria/amazon_dynamodb.md)
+  - [Ejercicio_1](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Lab-learner/ejercicio_1.md)
 
   - [Ejercicio_2](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Lab-learner/ejercicio_2.md)
 
   - [Ejercicio_3](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Lab-learner/ejercicio_3.md)
 
-  - [Ejercicio_5](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Teoria/amazon_sdk.md)
+  - [Ejercicio_5](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Lab-learner/ejercicio_5.md)
 
-  - [Ejercicio_6](https://github.com/Marlith08/AWS_Project_Template/blob/main/DOCS/Teoria/amazon_sns.md)
+
 
 
