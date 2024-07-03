@@ -27,7 +27,7 @@
     - Lambda escala automáticamente según la cantidad de eventos recibidos. No hay necesidad de aprovisionar capacidad adicional.
     - Cada ejecución de función Lambda es independiente y se gestiona en paralelo, permitiendo manejar desde unas pocas invocaciones por segundo hasta miles.
 
-  - ### Modelo de Precios
+  - ### Precios
     - Se factura por el tiempo de ejecución y el número de invocaciones, con una facturación precisa basada en el uso real.
     - No hay costos asociados cuando no hay eventos o demanda, lo que optimiza los costos operativos.
 
@@ -45,4 +45,11 @@
 - **Reducción de la Complejidad Operativa**: Elimina la gestión de infraestructura y reduce el tiempo dedicado a operaciones.
 - **Escalabilidad Automática**: Maneja automáticamente picos de carga sin intervención manual.
 - **Eficiencia y Costo**: Optimiza los costos al facturar solo por el uso real de recursos.
+
+
+## Referencias
+[Amazon](https://aws.amazon.com/es/lambda/)
+
+[Amazon](https://docs.aws.amazon.com/es_es/lambda/latest/dg/lambda-dg.pdf#welcome)
+
 
