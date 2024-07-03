@@ -33,8 +33,7 @@ Este proyecto es una guía para desarrollar aplicaciones distribuidas eficientes
 
 | Carpeta  | Descripción  |
 | :------------: | :------------: |
-| <a href=".github">.github</a>  | <p align="justify">.</p>  |
-| <a href="docs">docs</a>  | <p align="justify"></p>  |
-| <a href="src">src</a>  | <p align="justify"></p>  |
-| <a href="test">LICENSE</a>  | <p align="justify"></p>  |
+| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/DOCS">docs</a>  | <p align="justify"> Se encontrarán todos los documentos relacionados al proyecto tanto de teoría y lab learner</p>  |
+| <a href="https://github.com/Marlith08/AWS_Project_Template/tree/main/src">src</a>  | <p align="justify"> Contiene los códigos a utilizar para realizar los ejercicios del respectivo proyecto</p>  |
+| <a href="test">LICENSE</a>  | <p align="justify"> Contiene los ejercicios del proyectos (código)</p>  |
 
